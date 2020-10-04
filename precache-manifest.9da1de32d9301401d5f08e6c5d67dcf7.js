@@ -7244,7 +7244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edge.html"
   },
   {
-    "revision": "6abeaa6468c14fef08de4e419af0f1d5",
+    "revision": "e451cc083a17b44784e7570d1aca9a37",
     "url": "/edu.html"
   },
   {
@@ -7388,7 +7388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/in-the-news.html"
   },
   {
-    "revision": "cbb62f9956351d7d31a283bc86bc7f77",
+    "revision": "4db5b5cae80cfcc45f755e763d7dd2b5",
     "url": "/index.html"
   },
   {
@@ -7400,7 +7400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/partners/sprialisconsulting.html"
   },
   {
-    "revision": "e3d35a85257d7a0ae0bbb28b6a5a2336",
+    "revision": "2e9d00e01b7a148d60081d08ae4937ed",
     "url": "/pricing.html"
   },
   {
@@ -7408,11 +7408,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/privacy.html"
   },
   {
-    "revision": "f11ea78c2f8d98c75489bc303ff9f825",
+    "revision": "db195075217e3fdd4aaab953f8b4c322",
     "url": "/products/accessibility-checker.html"
   },
   {
-    "revision": "ac38c450c648511024e12df2d720d0fd",
+    "revision": "92d407c9f7ade8b196ee175b24a20cea",
     "url": "/products/widget.html"
   },
   {
