@@ -7200,8 +7200,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog/how-to-install-helperbird-in-edu-accounts.html"
   },
   {
-    "revision": "76195b8c471d484ad4972ba271654d37",
+    "revision": "150d19b6ae32e800af431f8c9be98c22",
     "url": "/blog/index.html"
+  },
+  {
+    "revision": "4605412bbf1440d272ce58f0790a12e4",
+    "url": "/blog/interview-with-dyslexic-founder-of-helperbird.html"
   },
   {
     "revision": "8aa3f558f8015da4ddd411bfc7d048e7",
@@ -7432,11 +7436,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sitemap.html"
   },
   {
-    "revision": "652042f26fc2fefb9c37beabe1cf9129",
+    "revision": "da44dcceeee60d6a66ddadf6ed00da83",
     "url": "/sitemap.xml"
   },
   {
-    "revision": "2b1f571a9a09fef00575f4c7dc8aa00c",
+    "revision": "7f7fa42ae5d50c8312a13d3802676a39",
     "url": "/sitemap.xml.gz"
   },
   {
