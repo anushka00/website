@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57611b457e6f8422020f1e15da269aae",
+    "revision": "b678ce80a710224ae9292527f1ee8d94",
     "url": "/404.html"
   },
   {
-    "revision": "47ade58e4264984ced74375e1339d454",
+    "revision": "e56bc0f7a35ae28dbc46811da74955ec",
     "url": "/about.html"
   },
   {
-    "revision": "1a950d90c2ff68107e55",
+    "revision": "cb3ae67ad8c192db69af",
     "url": "/app.bundle.js"
   },
   {
@@ -2508,7 +2508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/svgs/comment-dollar.svg"
   },
   {
-    "revision": "d00076e367673ce734604ec3dfb99500",
+    "revision": "d4a4fc2d172489112162b03d54fc2418",
     "url": "/assets/svgs/comment-dots.svg"
   },
   {
@@ -7188,199 +7188,203 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/videos/widget.webm"
   },
   {
-    "revision": "bb0c92e44031835a703a1eae26172f28",
+    "revision": "bc46beb75b9d51aee2d3643b540c82cf",
     "url": "/blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console.html"
   },
   {
-    "revision": "cee354a832f1a18cc64278b35ea8dd8f",
+    "revision": "0bdd046e39cc25b68ef806dc41a63f6a",
     "url": "/blog/how-to-install-and-set-up-helperbird.html"
   },
   {
-    "revision": "1374aba92fd87c4ddf0fb79757ede86a",
+    "revision": "659bd01dcd42d1b4b827a1f3fab53568",
     "url": "/blog/how-to-install-helperbird-in-edu-accounts.html"
   },
   {
-    "revision": "150d19b6ae32e800af431f8c9be98c22",
+    "revision": "13c78137a262e0bae7759a5304036367",
     "url": "/blog/index.html"
   },
   {
-    "revision": "4605412bbf1440d272ce58f0790a12e4",
+    "revision": "89c84d9eb6d8c229691b66380728eaff",
     "url": "/blog/interview-with-dyslexic-founder-of-helperbird.html"
   },
   {
-    "revision": "8aa3f558f8015da4ddd411bfc7d048e7",
+    "revision": "d7fec3ea34aeda299056645a0431e7ad",
     "url": "/blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia.html"
   },
   {
-    "revision": "dca485c59679b0405b6c3a36885f2a87",
+    "revision": "905f8cece4bd3a5b4068e5de61e5d4c8",
     "url": "/blog/signin.html"
   },
   {
-    "revision": "d2af510e73c9dd5900229a0edab70bc8",
+    "revision": "b28716f71d6ca7e49cabda45396f12ed",
+    "url": "/blog/three-facts-about-dyslexia.html"
+  },
+  {
+    "revision": "c7b0d852c4c88080c283a9e9f7d0ddda",
     "url": "/cancel.html"
   },
   {
-    "revision": "e2c78622ea6fa05f5009feb815206e6f",
+    "revision": "3954661d742c9746c990530f85da2a17",
     "url": "/chrome.html"
   },
   {
-    "revision": "070f3f9b8379e1486ec55ed3dc7e2ae3",
+    "revision": "14e2c10cb1d935c40b67ae5f4c87943c",
     "url": "/compare/immersive-reader-by-microsoft-alternative.html"
   },
   {
-    "revision": "6d2b61854c46342fc0dc8b4afb22e772",
+    "revision": "015147f083c52bc9400a47bc8622d044",
     "url": "/compare/read-and-write-alternative.html"
   },
   {
-    "revision": "542cb96ef763a71b06fb85615ca9e4ab",
+    "revision": "3a6a7d1ef3dc612ac067fd51dcd09eff",
     "url": "/compare/snap-and-read-alternative.html"
   },
   {
-    "revision": "f702d786482623fe16699d9758ad18ae",
+    "revision": "b72c0d06a074d53039080818cc2b2bb0",
     "url": "/compliance.html"
   },
   {
-    "revision": "56d94396fe0b7ffb87871e6305dcb766",
+    "revision": "33ddcdaee1ceac8a813e30fc0b819ec8",
     "url": "/contact.html"
   },
   {
-    "revision": "aee5d865cf8791a59ecc43b4d7619a7c",
+    "revision": "c17d737da9db9fc15f480774ca3ce1e5",
     "url": "/edge.html"
   },
   {
-    "revision": "e451cc083a17b44784e7570d1aca9a37",
+    "revision": "4b1855cf1dace4b55dfaf952f9d70410",
     "url": "/edu.html"
   },
   {
-    "revision": "a54d2a96be8ba8291debd0219de4ae98",
+    "revision": "b9b47791c9a82cb69c2daca62aa38b49",
     "url": "/enterprise.html"
   },
   {
-    "revision": "cd5d548564fecdf9e9f2c87b5b5654c4",
+    "revision": "6f84e71f22994c06d21bb3045ef51dbf",
     "url": "/examples/iron.html"
   },
   {
-    "revision": "a744beae163e7e57bbcc22c57c63e1f1",
+    "revision": "07b12133d49fd93da5574414a32aa98c",
     "url": "/features/ad-blocker.html"
   },
   {
-    "revision": "ffe5c340236d2783d290d8f7df48e3dd",
+    "revision": "d59ea1cf6cafcaa5173570a80d470ff0",
     "url": "/features/adjust-letters-and-words.html"
   },
   {
-    "revision": "e932ca052d81a7946bd1c6237350a1f7",
+    "revision": "4d7b9e7097f8710bb1c2ffed19940af5",
     "url": "/features/analyze.html"
   },
   {
-    "revision": "d079e86cd55d264f62cbf9808aa6cb39",
+    "revision": "c356bbc81924af3955bce53f2eeedce1",
     "url": "/features/annotation.html"
   },
   {
-    "revision": "faa178e06db11125a55e535cf0323f58",
+    "revision": "7707da139f806181b5e65752974e4a56",
     "url": "/features/blacklist.html"
   },
   {
-    "revision": "5effaa817be60b981ee01ff8a11dd006",
+    "revision": "6932636cbf31c2ba1bc34fd154f3f992",
     "url": "/features/bookmarks.html"
   },
   {
-    "revision": "c88cc05f97416ea9aaeaab88e657d0c1",
+    "revision": "2d8470fe7fb33542fbbde6aaca1b3582",
     "url": "/features/cognitive-load.html"
   },
   {
-    "revision": "656ae828fe0b48ef393f38c698e95f21",
+    "revision": "744efc0f73299206106e7d156a4028e6",
     "url": "/features/color-blindness.html"
   },
   {
-    "revision": "2b086cda385bd6576401fd05d3ec2f52",
+    "revision": "c9528b964b75963979ac8237946ff5e4",
     "url": "/features/cursor-control.html"
   },
   {
-    "revision": "7f072ec8cff1303047ecf112aa52469e",
+    "revision": "daefe0ce53cec49d95ef6eabc8827d1a",
     "url": "/features/dictionary.html"
   },
   {
-    "revision": "5095635a8a7b6b6bc7d51d062da0a06f",
+    "revision": "a01d7ffcbc631c964c4e9d63d4f40a77",
     "url": "/features/google-translate.html"
   },
   {
-    "revision": "102631c006fcddac3378e4e2ae522c36",
+    "revision": "64f5d7256144a335a4e9514aede7e86f",
     "url": "/features/high-contrast.html"
   },
   {
-    "revision": "fe222e287bf84f464fe515a9741e606a",
+    "revision": "0f54356e7e1f1477be4cc3146ae36ab2",
     "url": "/features/immersive-reader-for-chrome.html"
   },
   {
-    "revision": "52ac29d05bdc7a0c569dc0a662cab124",
+    "revision": "48ffb951affc67f468f8910503419568",
     "url": "/features/index.html"
   },
   {
-    "revision": "54001ffaefb402cadcf6d4c362e5324f",
+    "revision": "76bccc118828c78f314344150b380e41",
     "url": "/features/notes.html"
   },
   {
-    "revision": "cee3587880c06be6c4740d38ed3010ce",
+    "revision": "9b22f4d7e848ee99c95583eb66a0f0fc",
     "url": "/features/optical-character-recognition.html"
   },
   {
-    "revision": "9422f457f88283b534e55b6848e9fc85",
+    "revision": "c8b0533abe2ade89fbd2dba3fca03aa7",
     "url": "/features/overlay.html"
   },
   {
-    "revision": "ff16c12586287af1ff633bf180162774",
+    "revision": "6926c6ff8929e8831b3c90eaf3553d75",
     "url": "/features/privacy.html"
   },
   {
-    "revision": "78b6fdbf2a6b65b17060063f7b1a6d84",
+    "revision": "b8e8fc4bbc91f51c286a864ca25b95f8",
     "url": "/features/reader-mode-for-chrome-and-firefox.html"
   },
   {
-    "revision": "a6a6cbe73d7d6d78eb176c150edc6341",
+    "revision": "70772d73c29e23b8f9cf312c90087b7c",
     "url": "/features/ruler.html"
   },
   {
-    "revision": "74550fffb630441ffd636891a5a9521b",
+    "revision": "c0691269c280d8543d2d8f74dd6c4c47",
     "url": "/features/screenshot.html"
   },
   {
-    "revision": "44b9db04b78206f2a975119a1f3e088d",
+    "revision": "81d0a9d726c87efd6872b3b16d201191",
     "url": "/features/shortcuts.html"
   },
   {
-    "revision": "50ec41f50ad68bae87fd7a72c738bb56",
+    "revision": "08277bd4d3b342b0130cdfde1cb3fe45",
     "url": "/features/specialised-dyslexic-fonts.html"
   },
   {
-    "revision": "b5c4aee5e4aa76c9301123aee2eadb54",
+    "revision": "da89f8f4c1824eb33e8a2c6b39911e7c",
     "url": "/features/speech-to-text.html"
   },
   {
-    "revision": "834e028acc90d19e73537725dd273d8c",
+    "revision": "33859dcc6cb85647a8e4f4611bd56ea9",
     "url": "/features/styles.html"
   },
   {
-    "revision": "52dc8c3132777d46f5f046a10a2548e5",
+    "revision": "ac93c992bf465be2e8f5d00ae3144313",
     "url": "/features/text-to-speech.html"
   },
   {
-    "revision": "ed99f06b8bf15f938642275dce5655de",
+    "revision": "73f7031bda80ddf456b276f489aefd74",
     "url": "/features/zoom.html"
   },
   {
-    "revision": "cf02bc1ad8a953d0830e41fd48271e77",
+    "revision": "d5f90a2147eb15c57aa2cf58d78704a9",
     "url": "/feedback.html"
   },
   {
-    "revision": "325d0fdb331ebb028bcae18f8fd4e8f9",
+    "revision": "bfd9b3aabaeb198600d941cc23fa990a",
     "url": "/firefox.html"
   },
   {
-    "revision": "cfb64f2d982b5f0371181a434babb475",
+    "revision": "634b525bfa08dec402bffb7877287e76",
     "url": "/friend/dai.html"
   },
   {
-    "revision": "5f0e69f92db09bf0527f94cdc3afeffc",
+    "revision": "6ee9dc4f6cff91e64434d39eb6ec3ba7",
     "url": "/friend/free.html"
   },
   {
@@ -7388,155 +7392,155 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/googlea4b2e0ff05c168d5.html"
   },
   {
-    "revision": "b7d1ff0e0a57697a7808ff98aa42f1ca",
+    "revision": "6668b9bff4a4453e4b963dc862697f8e",
     "url": "/in-the-news.html"
   },
   {
-    "revision": "4db5b5cae80cfcc45f755e763d7dd2b5",
+    "revision": "8d59b3080e5fa2520d8e6f90142ad577",
     "url": "/index.html"
   },
   {
-    "revision": "11252096a1af42a13ff1024626f105b0",
+    "revision": "5ff7cc88c5ada10dde2a4d5d94ffb31b",
     "url": "/partners/sascharoos.html"
   },
   {
-    "revision": "ed0d160623a3a985184e27b534defa08",
+    "revision": "e59a36d56c4c07294cb5ecc62865619c",
     "url": "/partners/sprialisconsulting.html"
   },
   {
-    "revision": "2e9d00e01b7a148d60081d08ae4937ed",
+    "revision": "1ef0a503a55b0616de801d2d3b3051cc",
     "url": "/pricing.html"
   },
   {
-    "revision": "d5bdfb9766f3d56230c129a8ab1b9f4c",
+    "revision": "131508d78d3cb9952dd4a3d5f25f4e4b",
     "url": "/privacy.html"
   },
   {
-    "revision": "db195075217e3fdd4aaab953f8b4c322",
+    "revision": "af4cf289b249bbc81e20bf6a8df47784",
     "url": "/products/accessibility-checker.html"
   },
   {
-    "revision": "92d407c9f7ade8b196ee175b24a20cea",
+    "revision": "832d41d373f8dc1d17981e6bf1411a9c",
     "url": "/products/widget.html"
   },
   {
-    "revision": "8a88776631135e25515bde12c7e1cf30",
+    "revision": "cd298a28ba3300193185f5ce4c7072c8",
     "url": "/reviews.html"
   },
   {
-    "revision": "dc06071676ac9620a4d84d3d873375fa",
+    "revision": "8f99b47296884589222be0a39da183b0",
     "url": "/roadmap.html"
   },
   {
-    "revision": "90d79246d30fdbf564146f41f24d775e",
+    "revision": "c766343b41008bb727c2e7c8bcc40008",
     "url": "/sales.html"
   },
   {
-    "revision": "8876ea2a9006712841bceb39ee7c1fb0",
+    "revision": "9a8462733da6c8c8c148ce246a092d1d",
     "url": "/sitemap.html"
   },
   {
-    "revision": "da44dcceeee60d6a66ddadf6ed00da83",
+    "revision": "d15766cd88f10c731f4172e1fe622fe9",
     "url": "/sitemap.xml"
   },
   {
-    "revision": "7f7fa42ae5d50c8312a13d3802676a39",
+    "revision": "32696c31475a97196c50defb89bb1100",
     "url": "/sitemap.xml.gz"
   },
   {
-    "revision": "545c260b42c92eee8abe2ba84e4f2d12",
+    "revision": "94de6a763286f5cecc0295d211a4c308",
     "url": "/success-a11y.html"
   },
   {
-    "revision": "2fa94d786c0f1fea437053abcd3464d4",
+    "revision": "35fe750ed0c5829bea7b87e28584f941",
     "url": "/success-education.html"
   },
   {
-    "revision": "9f3e5c68b6dd1074711a3bdb02170871",
+    "revision": "37d36f78184a1d8992abf93b7593dcfe",
     "url": "/success.html"
   },
   {
-    "revision": "73b73d8b7daa069d483b96b21fd75246",
+    "revision": "32956b925150e602922e9064efacc2a1",
     "url": "/support.html"
   },
   {
-    "revision": "9963895585865d9851e7c6f919239ad3",
+    "revision": "0d92d1fafe2ff46b57034a5d9213627f",
     "url": "/survey.html"
   },
   {
-    "revision": "acd7ed659a2e34696ffb64d0fa756e84",
+    "revision": "fa3db11ad2b3bf39dd12b867f3fdbd6a",
     "url": "/terms-of-service.html"
   },
   {
-    "revision": "6ca25da20ceaa702dbc8fc66cdaa5f0f",
+    "revision": "45eaf9c27c17cc937c4166cd6df823d0",
     "url": "/testimonials.html"
   },
   {
-    "revision": "2a0b254c93db7dd9f5f938d057b7ecd7",
+    "revision": "68dca04812df69eccda6ab6841d95df0",
     "url": "/updates/24-1-0.html"
   },
   {
-    "revision": "eb9e3cabdabe85c9ea190c03e47312dd",
+    "revision": "cf96cb9b497ac21d74f2d7f26c4ad989",
     "url": "/updates/24-1-1.html"
   },
   {
-    "revision": "a343f7eadc935be4d49f93dc767d4f2a",
+    "revision": "862aa3d44abc2eacea497959b979d68b",
     "url": "/updates/24-1-2.html"
   },
   {
-    "revision": "99bcea13a125a2288cacf961dad38cb8",
+    "revision": "4d02aee1071c7da85d35ce6157b7f486",
     "url": "/updates/24-2-2.html"
   },
   {
-    "revision": "66793588103084df94992dde904c43f5",
+    "revision": "402ae6bbe81a5a5774b3a86ea33ed61f",
     "url": "/updates/24-2-4.html"
   },
   {
-    "revision": "62dd0abef9f2a98760dd1bf00a1ef7cd",
+    "revision": "73cd78627d5f146354cfad37ee1a5265",
     "url": "/updates/24-3-0.html"
   },
   {
-    "revision": "8c5d7cf33b6e7d9cec078e4e114e186c",
+    "revision": "e6519ab601dc899152c30fbce6f07258",
     "url": "/updates/25-0-0.html"
   },
   {
-    "revision": "16986dbb5bc55af6f83e8832e785feec",
+    "revision": "589e008dc0e5e5cb0059c0eab11068b2",
     "url": "/updates/25-0-1.html"
   },
   {
-    "revision": "a205a87484402e22fa2383e589b2008b",
+    "revision": "f3f4118055b326b8ceb3cc672456b423",
     "url": "/updates/25-1-0.html"
   },
   {
-    "revision": "a905eefe936efe0cf5c8c4be0339a054",
+    "revision": "1e4bd1ea680c0dc052444c06f2ec00f5",
     "url": "/updates/26-0-1.html"
   },
   {
-    "revision": "71b68bad61e06d8f2c6f365c77011eab",
+    "revision": "c2132a428ded5237dedfdafeb5dc7de9",
     "url": "/updates/26-0-2.html"
   },
   {
-    "revision": "bdca3311c9c546ac2163f68044da175c",
+    "revision": "083977ba93af185513364b47bc632f29",
     "url": "/updates/26-1-1.html"
   },
   {
-    "revision": "a594a74661f5795bec70bd56ca2d2d18",
+    "revision": "fb10c2e5d86f2ad00052de8ef517c098",
     "url": "/updates/27-0-0.html"
   },
   {
-    "revision": "bc34f8b7c63a46f6c73d60f7c4837b82",
+    "revision": "a43d14d042cec9842bc6ff235384a5bc",
     "url": "/updates/27-1-0.html"
   },
   {
-    "revision": "5f20f56c1b47880fbf872b19fe372660",
+    "revision": "0064752f3d99aa9597b65ddd07b9b7d2",
     "url": "/updates/28-0-2.html"
   },
   {
-    "revision": "dfef4d69d9f3266633a71f4422198553",
+    "revision": "67b66ceac6c8402c1fc11cba59127834",
     "url": "/updates/index.html"
   },
   {
-    "revision": "fe12802b3be23e012f87dc6e1f63ebb5",
+    "revision": "863bf8696dcb2c7ccf300825d5f73249",
     "url": "/welcome.html"
   }
 ]);
