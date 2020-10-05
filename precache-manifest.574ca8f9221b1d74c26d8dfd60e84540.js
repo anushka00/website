@@ -4032,7 +4032,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/svgs/hospital-user.svg"
   },
   {
-    "revision": "05d09ace3a0b2676cd3d0724a34d1ee7",
+    "revision": "f4e3dac654ed109c61083f4449099c13",
     "url": "/assets/svgs/hospital.svg"
   },
   {
@@ -7476,63 +7476,63 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/testimonials.html"
   },
   {
-    "revision": "e742cf9759bd773d8ffb65dc55acc747",
+    "revision": "0a8949409f19b6d3c9552fb84bd697ee",
     "url": "/updates/24-1-0.html"
   },
   {
-    "revision": "ffae882dca77de1e1d0aead29ebb6e4e",
+    "revision": "ccca21f5501af6f8d5effeddff16d7ed",
     "url": "/updates/24-1-1.html"
   },
   {
-    "revision": "1c44699248726b44b4a5812031bfa64c",
+    "revision": "993fb7280136bcdd2b4b057d56cc1c0f",
     "url": "/updates/24-1-2.html"
   },
   {
-    "revision": "31dccb227df70b45d0f967df93d38a38",
+    "revision": "4eff261900d84737c160c461722ecae5",
     "url": "/updates/24-2-2.html"
   },
   {
-    "revision": "c10fe6cb2c8bec0cc143fec252a0ec51",
+    "revision": "b294894f9be0b583ac4225e2f860ebe8",
     "url": "/updates/24-2-4.html"
   },
   {
-    "revision": "f62445637f27c576da6d8ba42f519579",
+    "revision": "5d5a2202a5c4c8d1efe67f7a96620af4",
     "url": "/updates/24-3-0.html"
   },
   {
-    "revision": "c821d75c58883a64dbbe676490237cb2",
+    "revision": "3309b64761ffa8dc5fc93afdaa5f62b7",
     "url": "/updates/25-0-0.html"
   },
   {
-    "revision": "e765d5ae8d3e3ed0e615e45d8597c438",
+    "revision": "60bd9e6c390ee0fca0e052775c6c6e78",
     "url": "/updates/25-0-1.html"
   },
   {
-    "revision": "9d03c5f2fc095d8b629ecf7d1d39b232",
+    "revision": "96ec56726c627901ecb962dc47deedef",
     "url": "/updates/25-1-0.html"
   },
   {
-    "revision": "40434b2b9affc7377fc8a477f8cf5038",
+    "revision": "4d1cb7db2aa75b367132690b9c4c4aff",
     "url": "/updates/26-0-1.html"
   },
   {
-    "revision": "605ae56bbba4718321bf1977e963d121",
+    "revision": "baf1011aee15aca65ce0e552502fabe3",
     "url": "/updates/26-0-2.html"
   },
   {
-    "revision": "24d305a8262b7844df3275bc7b3f0064",
+    "revision": "30db439b0dd66e326b53b03187c91421",
     "url": "/updates/26-1-1.html"
   },
   {
-    "revision": "c645a25995c9a159adaecc3ce8c84a38",
+    "revision": "12d397fda1e84b148d52d7332058e4cf",
     "url": "/updates/27-0-0.html"
   },
   {
-    "revision": "508349367a9fe980453ae199d593d62d",
+    "revision": "c78e688206b52a591bcd024ec77a7989",
     "url": "/updates/27-1-0.html"
   },
   {
-    "revision": "ea943158d8f4fcbf0b03982dbbf9004b",
+    "revision": "0874d8d35298b6e410bb94b653ca6345",
     "url": "/updates/28-0-2.html"
   },
   {
