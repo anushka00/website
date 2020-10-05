@@ -2508,7 +2508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/svgs/comment-dollar.svg"
   },
   {
-    "revision": "d4a4fc2d172489112162b03d54fc2418",
+    "revision": "d00076e367673ce734604ec3dfb99500",
     "url": "/assets/svgs/comment-dots.svg"
   },
   {
